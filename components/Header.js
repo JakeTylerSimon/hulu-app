@@ -27,6 +27,7 @@ const Header = () => {
             src={HuluLogo}
             width={100}
             height={35}
+            alt='image'
         />
     </header>
   )
